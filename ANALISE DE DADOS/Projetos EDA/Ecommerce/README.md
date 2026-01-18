@@ -10,7 +10,7 @@ Este projeto simula a rotina de um analista de dados em um pequeno e‑commerce.
 
 
 
-\## 🎯 Objetivo
+## 🎯 Objetivo
 
 
 
@@ -22,29 +22,29 @@ Este projeto simula a rotina de um analista de dados em um pequeno e‑commerce.
 
 
 
-\## 🧹 Etapas principais
+## 🧹 Etapas principais
 
 
 
-\- Carregamento e inspeção da base (`shape`, tipos de dados, valores nulos).  
+- Carregamento e inspeção da base (`shape`, tipos de dados, valores nulos).  
 
-\- Tratamento de tipos (conversão de datas e variáveis numéricas) e criação da coluna `total\_amount` com o valor total de cada pedido.  
+- Tratamento de tipos (conversão de datas e variáveis numéricas) e criação da coluna `total\_amount` com o valor total de cada pedido.  
 
-\- Cálculo de métricas-chave: número de pedidos, valor total vendido, ticket médio e média de itens por pedido.
-
-
-
-\## 📊 Análises realizadas
+- Cálculo de métricas-chave: número de pedidos, valor total vendido, ticket médio e média de itens por pedido.
 
 
 
-\- Agrupamentos por \*\*categoria\*\* para ver volume de vendas, faturamento e ticket médio.  
+## 📊 Análises realizadas
 
-\- Identificação da categoria e do produto com maior receita.  
 
-\- Análise temporal por dia, mês e dia da semana para encontrar os períodos mais fortes de venda.  
 
-\- Estudo das \*\*formas de pagamento\*\* (quantidade de pedidos, receita gerada e ticket médio por método).
+- Agrupamentos por \*\*categoria\*\* para ver volume de vendas, faturamento e ticket médio.  
+
+- Identificação da categoria e do produto com maior receita.  
+
+- Análise temporal por dia, mês e dia da semana para encontrar os períodos mais fortes de venda.  
+
+- Estudo das \*\*formas de pagamento\*\* (quantidade de pedidos, receita gerada e ticket médio por método).
 
 
 

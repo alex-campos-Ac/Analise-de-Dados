@@ -2,7 +2,7 @@
 
 
 
-\## 🛒 Análise de Vendas de E‑commerce
+## 🛒 Análise de Vendas de E‑commerce
 
 
 

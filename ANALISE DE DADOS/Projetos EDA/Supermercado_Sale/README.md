@@ -33,4 +33,4 @@ Com esse projeto é possível responder perguntas como:
 - Quais linhas de produto são “campeãs” de faturamento e quais precisam de atenção?  
 - Há preferência clara por algum método de pagamento em cada loja?  
 
-É um ótimo estudo para praticar **pandas, agregações, métricas de negócio e visualizações** em um cenário próximo à realidade de varejo físico.
+Projeto que trabalha **pandas, agregações, métricas de negócio e visualizações** em um cenário próximo à realidade de varejo físico.
